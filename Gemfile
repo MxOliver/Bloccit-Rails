@@ -17,6 +17,7 @@ gem 'uglifier', '>= 1.3.0'
 group :development do
   # Use sqlite3 as the development database for Active Record
   gem 'sqlite3'
+  gem 'pry-rails'
 end
 
 group :development, :test do
